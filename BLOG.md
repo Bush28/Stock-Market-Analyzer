@@ -1,0 +1,6 @@
+Jumping into this project, I was thrilled and nervous as someone relatively new to coding and finance. My goal was to create a Stock Market Analyzer tool using Python, with a little help from Numpy, Matplotlib, and YFinance libraries.
+Starting out, Numpy threw me for a loop with its arrays and math stuff. The official docs and online tutorials saved me but I had to watch a lot of it . They helped me crunch numbers, calculate average daily returns, and work with the standard deviation.
+Then came Matplotlib, wasn’t that hard compared to numpy! But customizing plots and labels felt like navigating a maze. Good thing forums and examples saved the project, making my graphs show stock price trends like I wanted.
+Last but not least, YFinance was from where I got my data.It was pretty easy , just one line of code to fully get the data that I used later in my calculations.
+Reflecting on this journey, it was a rollercoaster of highs and lows. These libraries taught me a lot, and the resources I stumbled upon (thank you, internet!) were my guide . This project not only boosted my coding experience but also gave me a shot of confidence in tackling bigger challenges. It also opened a whole new world of ideas in my head that I can use in the future with the help of various python libraries.
+
