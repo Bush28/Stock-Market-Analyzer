@@ -1,13 +1,13 @@
 # Stock-Market-Analyzer
-phase-3-project 
+phase-3-project |
 
 
-User input =>symbol,start_date,end_date    
+User input =>symbol,start_date,end_date  |    
 
-data =>Yfinance  
+data =>Yfinance  |
 
 
-calculations =>numpy
+calculations =>numpy  |
 
 
 creating plot =>matplotlib
